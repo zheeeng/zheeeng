@@ -2,7 +2,7 @@
 
 There is the land where I opensource toys and take a break.
 
-📫 How to reach me?
+📫  How to reach me?
 
 ![wechat](https://img.shields.io/static/v1?style=flat-square&logo=wechat&label=&message=@zheeeng001&color=5b5b5b&labelColor=5b5b5b)
 [![zhihu](https://img.shields.io/static/v1?style=flat-square&logo=zhihu&label=&message=@zheeeng&color=5b5b5b&labelColor=5b5b5b)](https://www.zhihu.com/people/zheeeng)
@@ -11,6 +11,7 @@ There is the land where I opensource toys and take a break.
 
 <details>
 <summary>⚡️ More about my coding life</summary>
+
 
 ![LeetCode progress](https://leetcode-badge.chyroc.cn/?name=zheeeng&refresh=true)
 
