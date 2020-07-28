@@ -11,7 +11,7 @@ There is the land where I opensource toys and take a break.
 
 <details>
 <summary>⚡️ More about my coding life</summary>
-
+<br />
 
 ![LeetCode progress](https://leetcode-badge.chyroc.cn/?name=zheeeng&refresh=true)
 
