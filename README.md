@@ -2,6 +2,8 @@
 
 There is the land where I share toys and take a break.
 
+I'm learning building tools and AST recently.
+
 📫  How to reach me?
 
 ![wechat](https://img.shields.io/static/v1?style=flat-square&logo=wechat&label=&message=@zheeeng001&color=5b5b5b&labelColor=5b5b5b)
@@ -13,8 +15,6 @@ There is the land where I share toys and take a break.
 <details>
 <summary>⚡️ More about my coding life</summary>
 <br />
-
-![LeetCode progress](https://leetcode-badge.chyroc.cn/?name=zheeeng&refresh=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zheeeng&layout=compact&hide=css,html)
 
